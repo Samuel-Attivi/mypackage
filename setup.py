@@ -8,7 +8,7 @@ setup(
     description="EDA example python package", 
     long_description=open("README.md").read(),
     include_requires=["numpy"], 
-    url="", 
+    url="https://github.com/Codecyp/mypackage.git", 
     author="Samuel Attivi", 
     author_email="Samuelattivi4@gmail.com"
     
